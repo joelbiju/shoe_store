@@ -2,7 +2,7 @@
 This project is a simple web application developed using Flutter.
 
 ## Live Demo
-You can view the live demo of the website here: [Shoe Store WebView](https://shoe-store-six.vercel.app)
+You can view the live demo of the website here: [Shoe Store WebView](https://shoe-store-woad-chi.vercel.app/)
 
 ## Features
 - **Clean UI**: Simple and visually appealing design inside an iPhone.
