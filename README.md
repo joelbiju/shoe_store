@@ -6,7 +6,7 @@ A Flutter project.
 This project is a simple application UI developed using Flutter.
 
 ## Live Demo
-You can view the live demo of the application inside iPhone here: [Shoe Store View](https://shoe-store-six.vercel.app)
+You can view the live demo of the application inside iPhone here: [Shoe Store View](https://shoe-store-woad-chi.vercel.app)
 
 ## Features
 - **Clean UI**: Simple and visually appealing design inside an iPhone.
