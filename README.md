@@ -1,16 +1,17 @@
 # shoe_store
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+# Shoe Store UI
+This project is a simple application UI developed using Flutter.
 
-This project is a starting point for a Flutter application.
+## Live Demo
+You can view the live demo of the application inside iPhone here: [Shoe Store View](https://shoe-store-six.vercel.app)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- **Clean UI**: Simple and visually appealing design inside an iPhone.
+- **Static Content**: Provides a static representation of contents.
+- **UI Modes**: Dark and Light modes available for the app which can be toggled
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions are welcome! 
+Feel free to open issues or submit pull requests to enhance the project.
